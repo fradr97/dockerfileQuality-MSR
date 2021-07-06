@@ -1,0 +1,5 @@
+resources
+script/__pycache__
+script/config/__pycache__
+script/database/__pycache__
+token.txt
